@@ -1,0 +1,2 @@
+This is a question answering system. The question is from Quora.
+Here is a second line of input, which is one of two inputs.
